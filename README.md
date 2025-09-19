@@ -22,6 +22,7 @@ Growth was monitored in microplates and measured as optical density (OD) every 1
 - Visualization with **matplotlib**  
 - Estimation of growth rate (μ) from OD measurements  
 - Comparison of growth at different temperatures to identify the **optimal growth temperature**
+- Experimental results showed that the maximum growth rate (μ_max) was significantly higher at **36 °C** compared to 37 °C, indicating that under the given conditions, 36 °C may represent the optimal growth temperature for *E. coli* K12 NCM3722.
 
 
 ## 📂 Repository Structure
